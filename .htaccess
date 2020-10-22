@@ -1,0 +1,2 @@
+
+AddHandler Api-https RequestHeader set X-Forwarded-Proto &quot;https&quot; env=HTTPS
